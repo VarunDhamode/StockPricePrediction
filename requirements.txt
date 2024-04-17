@@ -1,0 +1,11 @@
+keras
+matplotlib
+numpy
+pandas
+pandas_datareader
+Pillow
+scikit_learn
+yfinance
+streamlit
+tensorflow
+protobuf==3.20.1
